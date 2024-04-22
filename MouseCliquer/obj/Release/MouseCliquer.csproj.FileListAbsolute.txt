@@ -1,0 +1,10 @@
+C:\Users\dimas\Downloads\MouseCliquer\bin\Release\MouseCliquer.exe.config
+C:\Users\dimas\Downloads\MouseCliquer\bin\Release\MouseCliquer.exe
+C:\Users\dimas\Downloads\MouseCliquer\bin\Release\MouseCliquer.pdb
+C:\Users\dimas\Downloads\MouseCliquer\obj\Release\MouseCliquer.csproj.AssemblyReference.cache
+C:\Users\dimas\Downloads\MouseCliquer\obj\Release\MouseCliquer.Form1.resources
+C:\Users\dimas\Downloads\MouseCliquer\obj\Release\MouseCliquer.Properties.Resources.resources
+C:\Users\dimas\Downloads\MouseCliquer\obj\Release\MouseCliquer.csproj.GenerateResource.cache
+C:\Users\dimas\Downloads\MouseCliquer\obj\Release\MouseCliquer.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Downloads\MouseCliquer\obj\Release\MouseCliquer.exe
+C:\Users\dimas\Downloads\MouseCliquer\obj\Release\MouseCliquer.pdb
